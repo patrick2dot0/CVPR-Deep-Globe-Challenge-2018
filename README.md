@@ -1,0 +1,1 @@
+# CVPR-Deep-Globe-Challenge-2018
